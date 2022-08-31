@@ -1,0 +1,54 @@
+.main{
+    height: 1000px;width: 1000px;background-color: aqua;
+}
+
+.header{
+    height: 250px;width: 345px;background-color: pink;
+}
+
+.comName{
+    height: 150px;
+    width: 655px;
+    background-color:red;
+    float: right;
+    position: relative;
+    top: -250px;
+    text-decoration: dotted;
+    text-shadow: 50px;
+    text-align: center;
+    font-size: 116px;
+    font-style: initial;
+    letter-spacing: 15px;
+    text-decoration-line: inherit;
+    color: white;
+}
+
+.navbar{
+    height: 100px;
+    width: 615px;
+    background-color:rgb(255, 200, 0);
+    float:right;
+    display:inline-flex;
+    justify-content:space-between;
+    align-items: center;
+    position: relative;top: -274px;
+    font-size:x-large;
+    padding-right: 2px;textco;
+}
+.navbar ul li{list-style: none;
+    display: inline-block;
+
+}
+.img{height: 250px;width: 345px;
+
+}
+.navbar ul li :hover{
+
+    text-decoration: none;
+    background-color: red;transition: 0.3s
+}
+
+.img1{height: 720px;width: 990px;position: relative;top: -293px;left: 5px;right: -10px;}
+.cover{
+    height: 15px;width: 990px;background-color: white;position: relative;top: -315px;right: -5px;text-align: center;
+}

@@ -1,0 +1,15 @@
+@font-face {
+    font-family:Second;
+    src: url(/font/kruti-dev-013.ttff);mask-image: url();
+}
+.allpage{background-color:pink;}
+    h2{
+        color: purple;
+    }
+    h2{
+        color: aqua;
+    }
+    p{
+        color: blue;
+    }
+    style>
